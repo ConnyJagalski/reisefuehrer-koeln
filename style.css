@@ -1,0 +1,12 @@
+aside {
+    max-width: max-content;
+}
+
+body {
+    background-image: url(images/skyline.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
